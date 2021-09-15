@@ -1,1 +1,1 @@
-# ReinforcementLearningUsingUnity_Medium
+# Reinforcement Learning Using Unity - Medium
